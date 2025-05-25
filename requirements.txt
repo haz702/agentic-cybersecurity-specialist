@@ -1,0 +1,7 @@
+uv==0.7.6
+torch==2.3.0
+transformers==4.40.0
+fastapi==0.115.5
+pydantic==2.10.0
+requests
+-e ./aiqtoolkit[all]
